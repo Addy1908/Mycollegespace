@@ -42,7 +42,7 @@ export default function Preview() {
               <span className="stars"></span>
               <h2 className="cSharp">Syllabus and many more..</h2>
               <p className="cSharp">
-                Here you will find semester-wise syallbus of all the specialization courses and also some previous year question paper..
+                Here you will find semester-wise syllabus of all the specialization courses and also some previous year question paper..
               </p>
             </div>
           </div>
